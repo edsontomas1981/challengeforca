@@ -24,6 +24,7 @@ function montaForca(){
 }
 
 window.addEventListener('load', function(){
+		alert('Para jogar pressione a letra escolhida no teclado')
 		montaForca()	
 })
 
